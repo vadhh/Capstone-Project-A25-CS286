@@ -1,6 +1,7 @@
+
 # Capstone-Project-A25-CS286
 <img width="425" height="159" alt="Group" src="https://github.com/user-attachments/assets/324a16c9-7a92-4162-ba38-6037b51afead" />
-
+<img width="423" height="117" alt="Clip path group" src="https://github.com/user-attachments/assets/78aead81-9460-4508-ab68-a9447b29a61b" />
 
 # Customer Segmentation & Business Strategy Analysis
 <img width="739" height="882" alt="image" src="https://github.com/user-attachments/assets/3473342c-5b56-4e0f-af48-ee494d5bb758" />
