@@ -1,10 +1,15 @@
 # Capstone-Project-A25-CS286
+<img width="425" height="159" alt="Group" src="https://github.com/user-attachments/assets/324a16c9-7a92-4162-ba38-6037b51afead" />
+
+
 # Customer Segmentation & Business Strategy Analysis
+<img width="739" height="882" alt="image" src="https://github.com/user-attachments/assets/3473342c-5b56-4e0f-af48-ee494d5bb758" />
 
 ## 1. Deskripsi Singkat Proyek
 Proyek ini adalah *end-to-end data science pipeline* yang bertujuan untuk mengidentifikasi segmen pelanggan dari data transaksi ritel dan merumuskan strategi bisnis yang dapat ditindaklanjuti.
 
 Berbeda dengan pendekatan RFM standar, proyek ini menggunakan fitur perilaku berbasis **Volume (Total Quantity)**, **Nilai Transaksi (Avg Transaction Value)**, dan **Preferensi Harga (Avg Unit Price)** untuk menemukan pola belanja yang unik.
+<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/0c58f774-3759-44e7-aa27-cdd414c0c8b3" />
 
 Alur proyek terdiri dari tiga tahapan utama:
 1.  **Data Cleaning:** Membersihkan data transaksi mentah, membuang transaksi retur/negatif, dan menangani *outliers*.
